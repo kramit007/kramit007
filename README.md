@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">Software Quality Assurance Engineer.Experienced in Automation Testing with java and selenium from India.</h3>
-![Header](./github-header-image.png)
+[![MasterHead](./github-header-image.png)
 
 - 🔭 I’m currently working on **Java Selenium**
 
