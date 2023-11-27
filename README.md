@@ -1,6 +1,6 @@
-![Header](./github-header-image.png)
+![Header](./[github-header-image.png])
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Software Quality Assurance Engineer.Experienced in Automation Testing with java and selenium from India.</h3>
+<h3 align="center">Software Quality Assurance Engineer from India.Experienced in Automation Testing with java and selenium.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="./github-header-image.png"> -->
 
 - 🔭 I’m currently working on **Java Selenium**
