@@ -1,11 +1,11 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.PNG)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">Software Quality Assurance Engineer from India.Experienced in Automation Testing with java and selenium.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="./github-header-image.png"> -->
 
 - 🔭 I’m currently working on **Java Selenium**
 
-- 🌱 I’m currently learning **Java, Selenium, TestNG, API testing wihPostman**
+- 🌱 I’m currently learning **Java, Selenium, TestNG, API testing with Postman**
 
 - 💬 Ask me about **Java, Automation Testing, Web development**
 
