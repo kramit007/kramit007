@@ -1,23 +1,47 @@
-![logo](https://github.com/kramit007/kramit007/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">Software Quality Assurance Engineer from India.Experienced in Automation Testing with java and selenium.</h3>
-<!--  <img align="right" alt="Coding" width="400" src="./github-header-image.png"> --> 
+## Hi I'm Amit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-- 🔭 I’m currently working on **Java Selenium**
+I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in Automation Testing with java and selenium. I love to automate web applications.
 
-- 🌱 I’m currently learning **Java, Selenium, TestNG, API testing with Postman**
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar-dev/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/amit_kr.aj/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amitkumar970522@gmail.com)
 
-- 💬 Ask me about **Java, Automation Testing, Web development**
+### What I currently Do
 
-- 📫 How to reach me **amitkumar970522@gmail.com**
+- 🔭 I’m currently seeking a technically challenging position in Software Testing.
+- 🌱 I’m currently learning API testing with Postman.
+- 🤔 Ask me about Java, Automation Testing and Web development.
+- 📫 How to reach me: islempenywis@gmail.com.
+- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- ⚡ Fun fact:I go to the GYM very often.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amitkumar-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitkumar-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/amit_kr.aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_kr.aj" height="30" width="40" /></a>
-</p>
+#### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<!-- TODO: Make technologies links takes you to repositories -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramit007&show_icons=true&locale=en&layout=compact" alt="kramit007" /></p>
+[![Selenium Badge](https://img.shields.io/badge/-Selenium-#43B02A?style=for-the-badge&labelColor=black&logo=react&logoColor=#43B02A)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQL-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+
+
+#### Bizness
+- :paperclip: [My Resume/CV](https://github.com/kramit007/kramit007/blob/main/Amit%20Kr%20CV.pdf)
+- :email: amitkumar970522@gmail.com
+
+<!-- 
+#### Profile Visits  -->
+<!-- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis) -->
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Selenium   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+Java         1 hr 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+API     1 hr 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other        2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=kramit007&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
