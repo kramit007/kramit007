@@ -19,7 +19,7 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 
 <!-- TODO: Make technologies links take you to repositories -->
 
-[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=jameson&logoColor=F0DB4F)](#) &nbsp;&nbsp; [![Selenium Badge](https://img.shields.io/badge/-Selenium-3C873A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=3C873A)](#)&nbsp;&nbsp;  [![MySQL Badge](https://img.shields.io/badge/-MySQL-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)&nbsp;&nbsp;  [![jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)&nbsp;&nbsp;  [![Cucumber Badge](https://img.shields.io/badge/-cucumber-23D96C?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=23D96C)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=jameson&logoColor=F0DB4F)](#) &nbsp;&nbsp; [![Selenium Badge](https://img.shields.io/badge/-Selenium-3C873A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=3C873A)](#)&nbsp;&nbsp;  [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)&nbsp;&nbsp;  [![jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)&nbsp;&nbsp;  [![Cucumber Badge](https://img.shields.io/badge/-cucumber-23D96C?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=23D96C)](#) 
  
 
 
