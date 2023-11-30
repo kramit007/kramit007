@@ -11,7 +11,7 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 - 🔭 I’m currently seeking a technically challenging position in Software Testing.
 - 🌱 I’m currently learning API testing with Postman.
 - 🤔 Ask me about Java, Automation Testing, and Web development.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: amitkumar970522@gmail.com.
 - 😄 Pronouns: CoderAK.
 - ⚡ Fun fact: I go to the GYM very often.
 
