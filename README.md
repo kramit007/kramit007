@@ -1,6 +1,6 @@
 ## Hi I'm Amit <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in Automation Testing with java and selenium. I love to automate web applications.
+I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in automation testing with Java and Selenium. I love to automate web applications.
 
 :mailbox: Reach me out!
 
