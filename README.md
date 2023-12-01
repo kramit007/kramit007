@@ -4,7 +4,7 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-amitkumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar-dev/)&nbsp;&nbsp;&nbsp;[![Insta Badge](https://img.shields.io/badge/-@amit_kr.aj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/amit_kr.aj/)&nbsp;&nbsp;&nbsp;[![Mail Badge](https://img.shields.io/badge/-amitkumar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amitkumar970522@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkdin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumar-dev/)&nbsp;&nbsp;&nbsp;[![Insta Badge](https://img.shields.io/badge/-@Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/amit_kr.aj/)&nbsp;&nbsp;&nbsp;[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:amitkumar970522@gmail.com)
 
 ### What I currently Do
 
