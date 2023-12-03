@@ -20,30 +20,23 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 <!-- TODO: Make technologies links take you to repositories -->
 
 [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=jameson&logoColor=F0DB4F)](#) &nbsp;&nbsp; [![Selenium Badge](https://img.shields.io/badge/-Selenium-3C873A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=3C873A)](#)&nbsp;&nbsp;  [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)&nbsp;&nbsp;  [![jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&labelColor=black&logo=jenkins&logoColor=D24939)](#)&nbsp;&nbsp;  [![Cucumber Badge](https://img.shields.io/badge/-cucumber-23D96C?style=for-the-badge&labelColor=black&logo=cucumber&logoColor=23D96C)](#) 
- 
 
 
-#### Bizness
+
+#### Resume/CV
 - 📄 [My Resume/CV](https://github.com/kramit007/kramit007/blob/main/Amit%20Kr%20CV.pdf)
-- :email: amitkumar970522@gmail.com
-
 <!-- 
 #### Profile Visits  -->
-<!-- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis) -->
-#### Coding Stats
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kramit007.kramit007)  -->
 
-<!--START_SECTION:waka-->
-```text
-Selenium   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Java       1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-API        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
+
+#### Most used languages
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramit007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kramit007" /></p></br>></br></br></br></br> </br></br>
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=kramit007&count_private=true&theme=tokyonight&hide=contribs,prs)
+![kramit007's github stats](https://github-readme-stats.vercel.app/api?username=kramit007&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
