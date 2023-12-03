@@ -32,7 +32,7 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 
 #### Most used languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramit007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kramit007" /></p></br></br></br></br></br> </br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kramit007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kramit007" /></p></br></br></br></br></br> </br></br></br>
 <!--END_SECTION:waka-->
 
 #### Github Stats
