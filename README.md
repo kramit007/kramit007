@@ -24,7 +24,7 @@ I'm Amit Kumar a Software Quality Assurance Engineer from India. Experienced in 
 
 
 #### Resume/CV
-- 📄 [My Resume/CV](https://github.com/kramit007/kramit007/blob/main/Amit%20Kr%20CV.pdf)
+- 📄 [My Resume/CV](https://github.com/kramit007/kramit007/blob/main/Amit%20Kr%20CV.pdf)</br>
 <!-- 
 #### Profile Visits  -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=kramit007.kramit007)  -->
